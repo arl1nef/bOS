@@ -8,4 +8,4 @@ This is an open-source project.
 
 # **The Difference**
 
-bOS comes already debloated and pre-tweaked. Meaning you won't ahve to apply any extra tweks outside of the ones already applied in bOS.
+bOS comes already debloated and pre-tweaked. Meaning you won't have to apply any extra tweaks outside of the ones already applied in bOS.
