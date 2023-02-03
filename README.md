@@ -1,3 +1,8 @@
+# Where to Download or get Future Updates?
+
+[bOS Discord](https://dsc.gg/b05)
+
+
 # **What is bOS?**
 
 bOS is strippied down, modified version of Windows 10. It is based around winver 22H2 (19045.2006 build).
