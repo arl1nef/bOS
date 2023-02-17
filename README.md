@@ -5,7 +5,7 @@
 
 # **What is bOS?**
 
-bOS is strippied down, modified version of Windows 10. It is based around winver 22H2 (19045.2006 build).
+bOS is strippied down, modified version of Windows 10. It is based around winver 22H2.
 It's an option to use to achieve better performance. reduced system latency, and overall better experience.
 
 This is an open-source project.
